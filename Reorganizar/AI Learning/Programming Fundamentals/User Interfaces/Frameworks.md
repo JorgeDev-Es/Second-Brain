@@ -1,0 +1,1 @@
+Usar frameworks como Iced, GPUI, etc; permite a los desarrolladores enfocarse mucho mas en la logica de la aplicacion en lugar de en la implementacion de la interfaz grafica.

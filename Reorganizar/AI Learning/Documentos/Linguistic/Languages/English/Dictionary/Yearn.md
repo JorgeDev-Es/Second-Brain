@@ -1,0 +1,1 @@
+**Yearn** means to have a deep longing or craving for something.

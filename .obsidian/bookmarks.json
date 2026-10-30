@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1768848005361,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1768848060644,
+          "path": "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Full-Stack/JavaScript",
+          "title": "JavaScript"
+        },
+        {
+          "type": "folder",
+          "ctime": 1768848081123,
+          "path": "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Full-Stack/JavaScript/Bibliotecas/tsdown",
+          "title": "Compilación TSDown"
+        }
+      ],
+      "title": "TypeScript"
+    }
+  ]
+}

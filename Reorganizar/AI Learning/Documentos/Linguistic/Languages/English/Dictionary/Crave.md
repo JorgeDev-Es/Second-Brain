@@ -1,0 +1,1 @@
+**Crave** means to have a very strong desire or longing for something.

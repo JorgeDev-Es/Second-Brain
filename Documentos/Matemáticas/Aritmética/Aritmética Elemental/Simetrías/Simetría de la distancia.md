@@ -1,0 +1,1 @@
+$$distancia(A,B) = distancia(B,A)$$

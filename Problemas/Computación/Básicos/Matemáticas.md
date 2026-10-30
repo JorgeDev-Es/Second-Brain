@@ -1,0 +1,2 @@
+# Matemáticas
+## Función `max()`

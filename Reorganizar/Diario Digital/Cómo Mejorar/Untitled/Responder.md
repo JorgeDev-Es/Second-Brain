@@ -1,0 +1,1 @@
+Al hablar de un tema, puedes responder preguntas presentadas por ti mismo o presentar temas de manera pasiva

@@ -1,0 +1,1 @@
+# Evento `resize` de la Interfaz `Window`

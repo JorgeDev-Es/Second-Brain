@@ -1,0 +1,2 @@
+# Vertex Shader
+Each time a shape is rendered, the vertex is run for each vertex in the shape. Its job is to transform the input vertex from its original coordinate system into the clip space coordinate system used by Web.gl

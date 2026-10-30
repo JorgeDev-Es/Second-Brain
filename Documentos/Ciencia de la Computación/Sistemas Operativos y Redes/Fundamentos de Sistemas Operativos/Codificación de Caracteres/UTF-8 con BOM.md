@@ -1,0 +1,1 @@
+# Codificación de Caracteres UTF-8 con BOM

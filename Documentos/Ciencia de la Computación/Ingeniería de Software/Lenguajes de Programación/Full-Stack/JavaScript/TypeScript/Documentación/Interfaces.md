@@ -1,0 +1,16 @@
+# Interfaces en TypeScript
+Es posible implementar una interfaz solo por tener la forma que la interfaz pide, sin una clausula `implements` explicita.
+```TypeScript
+interface Person {
+  firstName: string;
+  lastName: string;
+}
+
+function greeter(person: Person) {
+  return "Hello, " + person.firstName + " " + person.lastName;
+}
+
+const user = { firstName: "Jane", lastName: "User" };
+
+console.log(greeter(user));
+```

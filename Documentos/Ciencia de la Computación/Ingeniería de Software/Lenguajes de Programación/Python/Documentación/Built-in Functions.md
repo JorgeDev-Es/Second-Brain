@@ -1,0 +1,5 @@
+
+
+| Category           | Functions                                                                                                                                                                                                                                                                                                                              |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic Input/Output | [[Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/Python/Reference/Core Language/Built-in Functions/print()\|print()]], [[Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/Python/Reference/Core Language/Built-in Functions/input()\|input()]] |

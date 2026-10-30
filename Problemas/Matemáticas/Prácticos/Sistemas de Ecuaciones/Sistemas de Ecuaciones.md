@@ -1,0 +1,1 @@
+$$\begin{align}x+y=78 \\ x-y=34 \\ x\cdot y=? \end{align}$$

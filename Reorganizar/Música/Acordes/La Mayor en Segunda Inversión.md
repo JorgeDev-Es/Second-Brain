@@ -1,0 +1,1 @@
+E4 pulgar, A4 índice, C#5 Meñique

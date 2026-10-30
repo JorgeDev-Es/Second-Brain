@@ -1,0 +1,9 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "/",
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "readableLineLength": false
+}

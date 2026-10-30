@@ -1,0 +1,2 @@
+# ccache
+## ¿Qué es ccache?

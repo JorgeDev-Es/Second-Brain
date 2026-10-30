@@ -1,0 +1,1 @@
+`clang-cl`  es un compilador compatible con MSVC

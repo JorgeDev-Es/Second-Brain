@@ -1,0 +1,2 @@
+# `ipcMain`
+The `ipcMain` module is an [[Documentos/Computer Science/Software Engineering/Software Development/Development Tools/Runtime Environments/Node.js/Reference/API/Reference/Events/Class/EventEmitter|EventEmitter]]. When used in the main process, it handles asyncronous and synchronous messages sent from a renderer process (web page). Messages sent from a renderer will be emitted to this module.

@@ -1,0 +1,2 @@
+# Opción `include` de TSConfig
+Específica una lista de nombres de archivos o patrones para incluir en el programa. Estos archivos son resueltos de manera relativa al directorio que contiene el archivo `tsconfig.json`

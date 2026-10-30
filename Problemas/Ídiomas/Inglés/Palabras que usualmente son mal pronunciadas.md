@@ -1,0 +1,44 @@
+# Palabras mal pronunciadas
+## Choir
+## Aisle
+
+## Receipt
+## Recipe
+## Throughout
+## Thorough
+## Temperature
+## Strength
+## Wednesday
+## Tuesday
+## Tortoise
+## Jewelry
+## Soldier
+## Chaos
+## Genuine
+## Athlete
+## Height
+## Stomach
+## Unique
+## Lettuce
+## Chocolate
+## Spaghetti
+
+## Northern
+## Penguin
+## Castle
+## Answer
+## Bought
+## Sour
+## Buffet
+## Private
+## Technique
+## Draught
+## Civil
+## Mountain
+## Hotel
+## Ticket
+## Video
+## Cabin
+## Wood
+## Chemical
+## Mischievous

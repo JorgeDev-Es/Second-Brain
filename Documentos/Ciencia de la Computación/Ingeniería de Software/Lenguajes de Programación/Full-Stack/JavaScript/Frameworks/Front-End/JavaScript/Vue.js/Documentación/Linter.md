@@ -1,0 +1,1 @@
+El linter con máxima compatibilidad en 2026 es Eslint.

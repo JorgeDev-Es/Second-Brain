@@ -1,0 +1,1 @@
+# Clase `TextIOWrapper` de la Biblioteca Estándar `io` de Python

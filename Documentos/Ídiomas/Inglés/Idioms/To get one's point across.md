@@ -1,0 +1,1 @@
+Darse a entender/transmitir una idea.

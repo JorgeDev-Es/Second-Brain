@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "e5f5f2e920fdc7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c21091f125db14f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5641755e52cd0d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Idioms/To get one's point across.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To get one's point across"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0862cfbd6f17a04a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eeddbbf1423ed82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Diccionario/Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge"
+            }
+          },
+          {
+            "id": "48bfb6e4c5531dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Diccionario/Average.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Average"
+            }
+          },
+          {
+            "id": "84b04cf1ec84b865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Diccionario/Responsible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Responsible"
+            }
+          },
+          {
+            "id": "381a1566e8beb148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Diccionario/Outcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outcome"
+            }
+          },
+          {
+            "id": "a3f2f0d2f8d8cff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Diccionario/Occasion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Occasion"
+            }
+          },
+          {
+            "id": "0b837f3d2672f4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Ídiomas/Inglés/Diccionario/Struggle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Struggle"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d71109ef625ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95bde4c33568aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f4e08fc1a340b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9b449c27529659f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "10611ea17ba9192f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.64353942871094
+  },
+  "right": {
+    "id": "9a19bb13e45e69a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e2acb35b31a925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb346789ac5abfd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciencia de la Computación/Ingeniería de Software/Programming Fundamentals/Abstractions/Abstractions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstractions"
+            }
+          },
+          {
+            "id": "b11ee7ebed1794c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "7b625c87ca6ed340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9da95ed5796ca358",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentos/Ciencia de la Computación/Ingeniería de Software/Fundamentos/Programación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Programación"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "5641755e52cd0d43",
+  "lastOpenFiles": [
+    "Documentos/Ídiomas/Inglés/Diccionario/Responsibility.md",
+    "Documentos/Ídiomas/Inglés/Idioms/To get one's point across.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Struggle.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Occasion.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Achieve.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Outcome.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Responsible.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Average.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Knowledge.md",
+    "Problemas/Ídiomas/Inglés/Palabras mal utilizadas.md",
+    "Documentos/Ídiomas/Inglés/Diccionario",
+    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Cheatsheets/Cheatsheets.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse/Clases/ArgumentParser.md",
+    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Cheatsheets",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse/argparse.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse/Clases",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python.md",
+    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Documentación/Herramientas de Desarrollo.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/scoop/scoop.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Infraestructura de Compilación/LLVM/Librerías/LibC++.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Infraestructura de Compilación/LLVM/LLVM.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Infraestructura de Compilación/LLVM/Librerías",
+    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Documentación/Compilación.md",
+    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Documentación/Estructura de Archivos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python Packaging/Python Packaging.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python Packaging/Documentación",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Documentación/Paquetes.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python Packaging",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/xdelta3.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Interfaz de Línea de Comandos/bash",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Rust/Rust.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Herramientas de compilación/ccache/ccache.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/Chocolatey/Chocolatey.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/scoop",
+    "Documentos/Inteligencia Artificial/Google/Antigravity/Antigravity IDE/Extensiones",
+    "Archivos Adjuntos/Isaac Callbacks.png",
+    "Archivos Adjuntos/Isaac Callbacks.svg",
+    "Archivos Adjuntos/Isaac Execution Order.png",
+    "Archivos Adjuntos/Pasted image 20260815175557.png",
+    "Archivos Adjuntos/Pasted image 20260521091610.png",
+    "Archivos Adjuntos/Pasted image 20260521091544.png",
+    "Archivos Adjuntos/Pasted image 20260521091355.png",
+    "Archivos Adjuntos/Pasted image 20260521091312.png",
+    "Archivos Adjuntos/acorde-A-sostenido-piano-300x136.gif",
+    "Archivos Adjuntos/acorde-Cm-piano-300x136.gif",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/COM/Referencias/Sin título.canvas"
+  ]
+}

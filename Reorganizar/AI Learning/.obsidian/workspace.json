@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "10c880fd152f86d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7838f090f379ada1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a52dd4dfb096bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Computer Science/Software Engineering/Software Development/Web Browsers/Reference/Web APIs/CanvasRenderingContext2D/CanvasRenderingContext2D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CanvasRenderingContext2D"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d9df8047659c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4337560b22efc39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58157ff0a1ece5a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2580533ba48af4f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "914660db0b2f6266",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "8a8f5542a7408b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb6a36780f3b6db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6171d75b2fb538e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentos/Computer Science/Programming Fundamentals/Variables/Variables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Variables"
+            }
+          },
+          {
+            "id": "727e9f509337807a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentos/Computer Science/Programming Fundamentals/Backend.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Backend"
+            }
+          },
+          {
+            "id": "d20a7803b457c4e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Documentos/Linguistic/Languages/English/Dictionary/Chunky.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chunky"
+            }
+          },
+          {
+            "id": "bb9250849205fdf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b7a52dd4dfb096bf",
+  "lastOpenFiles": [
+    "Challenges/LeetCode/Problems/1. Two Sum.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/C++/C++.md",
+    "Documentos/Computer Science/Programming Fundamentals/Variables/Variables.md",
+    "Diario/Crear requiere desglosar.md",
+    "Convenciones/Notas.md",
+    "Diario",
+    "Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/Full-Stack/JavaScript/TypeScript/Documentation/Reference Documentation/TSConfig File.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/Full-Stack/JavaScript/TypeScript/TypeScript.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/Full-Stack/JavaScript/JavaScript.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Windowing/Classes/AppWindow.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Windowing/Microsoft.UI.Windowing.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml/Classes/Window/Properties/AppWindow.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Windowing/Classes",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Windowing",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml/Classes/Window/Window.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml/Classes/Window/Properties",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml/Classes/Application",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml/Classes/Window",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml/Classes/Application/Application.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/Layers/Graphics Layer.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/Layers/Framework Layer.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/Layers",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/WinRT APIs.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/Layers/Visual Layer.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Graphics/Retained-Mode Rendering.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Graphics/Immediate-Mode Rendering.md",
+    "Documentos/Computer Science/Programming Fundamentals/Functions/Untitled.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml.Media/Classes/DesktopAcrylicBackdrop.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Programming Languages/CS/Documentación/Standard Library.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml.Media/Microsoft.UI.Xaml.Media.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml.Media/Classes",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/App Lifecycle.md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs/Microsoft.UI.Xaml.Media",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/APIs",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinUI 3/Templates/Blank App (Packaged).md",
+    "Documentos/Computer Science/Software Engineering/Software Development/Operative Systems/Windows/App Development/WinRT/Microsoft.md",
+    "WinUI Blank App Visual Studio Project Template.png",
+    "Untitled.canvas",
+    "Pasted image 20250131011013.png",
+    "Pasted image 20250131011006.png",
+    "Grabación 2024-10-02 104604.gif"
+  ]
+}

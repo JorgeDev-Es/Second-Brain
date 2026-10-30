@@ -1,0 +1,2 @@
+# Functions in Programming Fundamentals
+A function is a set of instructions that performs a specific task. Once you create a function, you can use it whenever you need to perform that task, without having to write the instructions all over again.

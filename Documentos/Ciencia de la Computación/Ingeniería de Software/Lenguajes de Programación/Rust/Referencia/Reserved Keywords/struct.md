@@ -1,0 +1,2 @@
+# `struct` keyword
+The `struct` keyword is used to define structured data, often referred to as a "structure". It allows you to create custom data types that group together related pieces of data under a single name.

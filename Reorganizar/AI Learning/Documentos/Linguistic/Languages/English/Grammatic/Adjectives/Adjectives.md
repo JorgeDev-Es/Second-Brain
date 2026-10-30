@@ -1,0 +1,2 @@
+# Adjectives
+## -ed termination

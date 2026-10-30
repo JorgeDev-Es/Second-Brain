@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e5f5f2e920fdc7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "60eb8304d2bf7485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480f9156eb546dbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d71109ef625ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95bde4c33568aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f4e08fc1a340b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10611ea17ba9192f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b449c27529659f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423
+  },
+  "right": {
+    "id": "9a19bb13e45e69a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e2acb35b31a925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb346789ac5abfd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinUI 3/WinUI 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WinUI 3"
+            }
+          },
+          {
+            "id": "b11ee7ebed1794c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "7b625c87ca6ed340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9da95ed5796ca358",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinUI 3/WinUI 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WinUI 3"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36f4e08fc1a340b4",
+  "lastOpenFiles": [
+    "Untitled",
+    "Music Player/Music Player (JavaScript + Electron + Vue).md",
+    "Music Player/Music Player (Rust + Iced).md",
+    "Music Player",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Software Architecture.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinUI 3/WinUI 3.md",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Software System.md",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/UI/UI Software Architecture.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinUI 3/Documentación/Controles/Controles.md",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Responsabilities",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Patterns",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Layers",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture",
+    "Untitled 7.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Unit Tests.md",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/UI",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Patterns/MVVM.md",
+    "Pasted image 20250819200105.png",
+    "Ciencia de la Computación/Ingeniería de Software/Software Architecture/Patterns/Patrones.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Patrones",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/XAML/Documentación/User Controls/User Controls.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/XAML/Controles XAML.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/Referencia/Keywords/readonly.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/XAML/Documentación/User Controls",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/Referencia/Keywords",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/Documentación/Variables.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/Referencia",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/XAML/XAML.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/CSharp/CSharp.md",
+    "DirectX/Documentación/Devices.md",
+    "DirectX/DirectX.md",
+    "GLSL/Entry Point.md",
+    "Vector.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinUI 3/Paquetes/Vortice.Windows/Vortice.Windows.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinUI 3/Paquetes/Vortice.Windows/Vortice.Direct2D1/Direct2D/Direct2D.md",
+    "Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/WinRT/Referencia/Microsoft.UI.Xaml.Controls/Clases/SwapChainPanel.md",
+    "Untitled 6.md"
+  ]
+}

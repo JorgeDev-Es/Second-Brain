@@ -1,0 +1,3 @@
+# AusspraceHe
+## **ie**
+/ˈliːbən/

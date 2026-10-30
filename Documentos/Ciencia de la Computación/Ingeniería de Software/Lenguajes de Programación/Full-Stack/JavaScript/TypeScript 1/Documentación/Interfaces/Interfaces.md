@@ -1,0 +1,2 @@
+# Interfaces in TypeScript
+Las interfaces sirven como un "contrato" de comunicación entre partes del código. Esto es útil en escenarios como el uso de Workers, APIs externas, o cualquier flujo donde se crucen líneas no controlados directamente por tu código.

@@ -1,0 +1,1 @@
+Un cable XLR, también conocido como tipo Canon, es un conductor de audio profesional de tres pines diseñado para transmitir señales balanceadas sin interferencias ni ruidos a larga distancia.

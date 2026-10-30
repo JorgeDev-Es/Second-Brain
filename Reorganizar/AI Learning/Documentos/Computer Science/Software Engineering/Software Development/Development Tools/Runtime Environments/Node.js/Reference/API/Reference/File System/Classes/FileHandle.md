@@ -1,0 +1,2 @@
+# `FileHandle` Class
+The `FileHandle` class in Node.js represents a reference to an open file. It provides a way to interact with a file asynchronously, offering more control and flexibility compared to traditional file system operations.

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "e5f5f2e920fdc7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b494ab6576f3dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bcc7d4bbfc46882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acordes/La Mayor en Segunda Inversión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Mayor en Segunda Inversión"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d71109ef625ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95bde4c33568aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f4e08fc1a340b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "10611ea17ba9192f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b449c27529659f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392
+  },
+  "right": {
+    "id": "9a19bb13e45e69a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e2acb35b31a925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb346789ac5abfd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciencia de la Computación/Ingeniería de Software/Programming Fundamentals/Abstractions/Abstractions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstractions"
+            }
+          },
+          {
+            "id": "b11ee7ebed1794c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "7b625c87ca6ed340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9da95ed5796ca358",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentos/Ciencia de la Computación/Teoría de la Computación/Límite Físico.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Límite Físico"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "4bcc7d4bbfc46882",
+  "lastOpenFiles": [
+    "Teoría Musical.md",
+    "Ritmo.md",
+    "Melodía.md",
+    "Armonía.md",
+    "Escalas.md",
+    "Acordes/La Mayor en Segunda Inversión.md",
+    "Digitación.md",
+    "Acordes",
+    "Documentos/Sin nombre",
+    "Ni idea/Dimensión/Dimensiones de Datos.md",
+    "Ni idea",
+    "Ni idea/Dimensión/Dimensión.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Herramientas de Desarrollo/Administrador de Sistema de Versiones/Git/Documentación/Repositorio.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Herramientas de Desarrollo/Administrador de Sistema de Versiones/Git/Documentación/HEAD.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Herramientas de Desarrollo/Administrador de Sistema de Versiones/Git/Documentación/Comandos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Navegadores Web/Tecnologías de la Web/CSS/CSS.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Navegadores Web/Tecnologías de la Web/CSS/Documentación/Posicionamiento.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Navegadores Web/Tecnologías de la Web/CSS/Documentación/Layout.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Fundamentos de la Programación/Algoritmos/Algoritmos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Navegadores Web/Documentación/Rendimiento.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Navegadores Web/Navegadores Web.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Aplicaciones de Escritorio/Electron/Documentación/Rendimiento.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Aplicaciones de Escritorio/Electron/Electron.md",
+    "Documentos/Diseño/Espacio de Colores/sRGB.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/Documentación/Single Page Application.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/Documentación/Routing.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/Documentación/Reactividad.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/Documentación/Manejo de Estado.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/Documentación/Propiedades.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/Documentación",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Documentación/Frameworks",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Sin nombre",
+    "Documentos/Diseño/Espacio de Colores",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Aplicaciones de Escritorio/Electron/Documentación/Frameworks",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/JavaScript/Vue.js/Referencia/Composition API/Reactivity Utilities",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Lenguajes de Programación/JavaScript/Frameworks/Front-End/JavaScript/Vue.js/Referencia/Composition API/Reactivity Advanced",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Desarrollo de Software/Sistemas Operativos/Windows/Desarrollo de Aplicaciones de Windows/COM/Referencias/Sin título.canvas",
+    "Archivos Adjuntos/Gráfica de seno.png",
+    "Archivos Adjuntos/Pasted image 20251104115826.png",
+    "Archivos Adjuntos/Función X es igual a 0.png",
+    "Archivos Adjuntos/Recording 2025-08-28 131558.gif",
+    "Archivos Adjuntos/Recording 2025-08-28 131558 1.gif",
+    "Archivos Adjuntos/Pasted image 20250819200105.png",
+    "Archivos Adjuntos/Conjuntos Numéricos.png",
+    "Archivos Adjuntos/20250828-2212-54.3514056.gif",
+    "Archivos Adjuntos/y center.gif",
+    "Archivos Adjuntos/Recording 2025-08-28 134649.gif"
+  ]
+}

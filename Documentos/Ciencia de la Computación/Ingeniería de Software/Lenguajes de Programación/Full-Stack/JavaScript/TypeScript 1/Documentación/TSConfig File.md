@@ -1,0 +1,2 @@
+# TSConfig File
+A TSConfig file in a directory indicates that the directory is the root of a TypeScript or JavaScript project. The TSConfig file can be either a `tsconfig.json` or `jsconfig.json`, both have the same set of config variables.

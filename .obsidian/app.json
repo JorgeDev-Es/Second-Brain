@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": false,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Archivos Adjuntos",
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true
+}

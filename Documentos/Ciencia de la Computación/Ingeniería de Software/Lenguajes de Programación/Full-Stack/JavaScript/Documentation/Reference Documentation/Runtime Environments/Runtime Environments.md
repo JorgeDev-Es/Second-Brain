@@ -1,0 +1,9 @@
+# Runtime Environments
+Runtime Environments in JavaScript
+
+JavaScript was initially designed to run within web browsers. Browsers enforce a strict security model that prevents JavaScript running on a webpage from directly accessing your computer's file system, network sockets, or other system resources.
+Server-side JavaScript runtimes like Node.js and Deno were created to allow developers to use JavaScript for tasks outside the browser, such as building web servers, command-line tools, and other backend applications. To do this, they need to break out of the traditional browser sandbox and provide controlled access to system resources.
+## Runtime environment's bindings
+The runtimes bundle the JavaScript engine with additional code, often written in lower-level languages like C++ or Rust. This additional code create bindings, these bindings expose operating system functionalities (like opening a file, writing data, reading data, making network requests) as JavaScript objects, functions, and APIs that your JavaScript code can call.
+
+An example of binding is `process.stdout.write()`, this function directly interacts with the standard output stream of the Node.js process. The ability for JavaScript code to write to this stream relies on the Node.js runtime's bindings. Node.js uses C++ code to connect the `process.stdout` JavaScript object (which represents a writable stream) to the operating system's underlying standard output file descriptor (usually file descriptor `1`). So, when you call `process.stdout.write()`, the JavaScript call eventually triggers C++ code within Node.js that makes a system call (like `WriteFile()` on Windows) to send the data to the terminal or wherever stdout is directed. This connection between the JavaScript stream object and the OS-level resource is the binding.

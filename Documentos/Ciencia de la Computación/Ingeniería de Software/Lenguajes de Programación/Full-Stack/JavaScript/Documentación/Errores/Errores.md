@@ -1,0 +1,1 @@
+Los errores se propagan hacia arriba.

@@ -1,0 +1,1 @@
+Las extensiones, a diferencia de VS Code, están basadas en Open VSX, un formato open-source.

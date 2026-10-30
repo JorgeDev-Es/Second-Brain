@@ -1,0 +1,1 @@
+**Restrain** means to hold back, limit, or control something.

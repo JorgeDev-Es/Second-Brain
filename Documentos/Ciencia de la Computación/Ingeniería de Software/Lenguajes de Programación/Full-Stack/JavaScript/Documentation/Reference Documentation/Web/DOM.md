@@ -1,0 +1,1 @@
+The DOM is different from the source code. This is because the HTML represents the initial page content, whereas the DOM represents the updated page content which is changed by the JavaScript.r

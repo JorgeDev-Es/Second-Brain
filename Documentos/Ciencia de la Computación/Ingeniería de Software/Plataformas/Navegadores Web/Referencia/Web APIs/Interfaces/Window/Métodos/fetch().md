@@ -1,0 +1,1 @@
+# Método `fetch()` de la API `Window` de los Navegadores Web

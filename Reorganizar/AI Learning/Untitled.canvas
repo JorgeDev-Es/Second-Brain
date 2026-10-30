@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9ea69b951ad44b26","x":-122,"y":24,"width":250,"height":60,"type":"text","text":"Data"},
+		{"id":"f986da84baa42ddb","x":200,"y":84,"width":250,"height":60,"type":"text","text":"Data Types"},
+		{"id":"346f4b26d7187ce5","x":200,"y":-36,"width":250,"height":60,"type":"text","text":"Data Structures"},
+		{"id":"a1f78886f5514af9","x":880,"y":-96,"width":250,"height":60,"type":"text","text":"Operations"},
+		{"id":"6f6b72daeb84e231","x":880,"y":62,"width":250,"height":61,"type":"text","text":"Type Checking"},
+		{"id":"e1a9f5e84d0beca3","x":880,"y":142,"width":250,"height":60,"type":"text","text":"Type Convertion (Casting)"},
+		{"id":"79cd526d4758e40e","x":880,"y":300,"width":250,"height":60,"type":"text","text":"Primitive Data Types"},
+		{"id":"bc872381539e2ca4","type":"text","text":"Complex Data Types","x":880,"y":221,"width":250,"height":60},
+		{"id":"0d45e569803791c8","x":880,"y":-17,"width":250,"height":60,"type":"text","text":"Memory Allocation"}
+	],
+	"edges":[
+		{"id":"e2fb9c2ee939f584","fromNode":"9ea69b951ad44b26","fromSide":"right","toNode":"f986da84baa42ddb","toSide":"left"},
+		{"id":"6a011a9e063949d3","fromNode":"9ea69b951ad44b26","fromSide":"right","toNode":"346f4b26d7187ce5","toSide":"left"},
+		{"id":"b3e2af9fced8c339","fromNode":"f986da84baa42ddb","fromSide":"right","toNode":"79cd526d4758e40e","toSide":"left"},
+		{"id":"c0c204c05b6eacd1","fromNode":"f986da84baa42ddb","fromSide":"right","toNode":"bc872381539e2ca4","toSide":"left"},
+		{"id":"b114f19f887c1c2e","fromNode":"f986da84baa42ddb","fromSide":"right","toNode":"e1a9f5e84d0beca3","toSide":"left"},
+		{"id":"b2300b54e17a4c78","fromNode":"f986da84baa42ddb","fromSide":"right","toNode":"6f6b72daeb84e231","toSide":"left"},
+		{"id":"fdac435c70d838ec","fromNode":"f986da84baa42ddb","fromSide":"right","toNode":"0d45e569803791c8","toSide":"left"},
+		{"id":"529bffd56b460f01","fromNode":"f986da84baa42ddb","fromSide":"right","toNode":"a1f78886f5514af9","toSide":"left"}
+	]
+}

@@ -1,0 +1,2 @@
+# Retained-Mode GUI
+based on the results of the diffing, the system can often perform partial layout and partial rendering. It only needs to recalculate the layout and issue drawing commands for the elements that actually changed or were affected by a change.

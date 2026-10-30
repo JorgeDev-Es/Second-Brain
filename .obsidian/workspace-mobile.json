@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "94c77110aab86df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2604588c04abc1fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141a426038599e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentos/Vida/Emociones/Sorpresa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorpresa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f6fb3520ac3f00c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c318d49f6200fe8c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "a99bceaed5964c18",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Exponentes",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "beee758daa259e88",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "1c6d04dcbf6318ea",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "30a90dafd8e315a5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6364faeab9c22abf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "70989cc011f52d1b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Documentos/Aprendizaje/Aprendizaje Jerárquico y Acumulativo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "0c77f8c7147b1e71",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Documentos/Aprendizaje/Aprendizaje Jerárquico y Acumulativo.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "d4a04b290790811b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Documentos/Aprendizaje/Aprendizaje Jerárquico y Acumulativo.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "141a426038599e04",
+  "lastOpenFiles": [
+    "Documentos/Vida/Emociones/Asco.md",
+    "Documentos/Vida/Emociones/Sorpresa.md",
+    "Documentos/Vida/Emociones/Felicidad.md",
+    "Documentos/Matemáticas/Álgebra/Álgebra Elemental/Exponentes.md",
+    "Documentos/Aprendizaje/Aprendizaje Jerárquico y Acumulativo.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/File System/Promises/Clases/FileHandle.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/Sistemas de Módulos/ECMA Script Modules/Propiedades/meta.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Process/Propiedades/argv.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/File System/Promises/File System Promises.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/File System/Promises/Clases",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Events/Clases/EventEmitter.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/Sistemas de Módulos/ECMA Script Modules/Propiedades",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Process/Propiedades",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Process/Process.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Path/join().md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/File System/Promises",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Events/Clases",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/Sistemas de Módulos/ECMA Script Modules",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Process",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Path",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/File System",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/API/Events",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Documentación/Sistema de Archivos/Sistema de Archivos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Documentación/Sistema de Archivos/Archivos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Referencias/Referencias.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Documentación/Manejo de Errores.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Entornos de Ejecución/Node.js/Documentación/Administrador de Paquetes.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Principios/Responsabilidades/Single Responsibility Principle.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Principios/Preocupaciones/Detalles de Implementación.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Principios/Preocupaciones/Separación de Preocupaciones.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Patrones/Estructurales/Patrones Estructurales.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Patrones/Estructurales/Inyección de Dependencias.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Patrones/Estructurales/Proxy.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Patrones/Estructurales/Mixins.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Patrones/Estructurales/Decorator.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Diseño de Software/Patrones/Estructurales/Facade.md",
+    "Archivos Adjuntos/Recording 2025-10-23 154105.gif",
+    "Archivos Adjuntos/Recording 2025-08-28 134649.gif",
+    "Archivos Adjuntos/Recording 2025-08-28 211509.gif",
+    "Archivos Adjuntos/Recording 2025-08-28 131558.gif",
+    "Archivos Adjuntos/Pasted image 20260521091610.png",
+    "Archivos Adjuntos/Recording 2025-08-28 131558 1.gif",
+    "Archivos Adjuntos/Pasted image 20260815175557.png",
+    "Archivos Adjuntos/Pasted image 20260521091355.png",
+    "Archivos Adjuntos/Pasted image 20260521091312.png",
+    "Archivos Adjuntos/Pasted image 20260521091544.png"
+  ]
+}

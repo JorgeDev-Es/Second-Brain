@@ -1,0 +1,4 @@
+Keep
+Spend
+Take
+Know

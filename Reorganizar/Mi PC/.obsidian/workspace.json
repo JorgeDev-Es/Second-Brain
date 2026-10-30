@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "7269cfedcb17078f",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e7eba273fe8396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c5e7147f66c810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videojuegos/Minecraft Bedrock/Ray Tracing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ray Tracing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b1e1113c274e655",
+    "type": "split",
+    "children": [
+      {
+        "id": "512d592008dad04c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb6e49342dcd30b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffc0387764157100",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be9e7572a0a6c7a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49e5c341c45e95c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "411bd6be92f8c668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51f12dd0edaca01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "872f285d1ad0fe10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f35a1ded7cfd9d5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fae9b81eca405a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "82c5e7147f66c810",
+  "lastOpenFiles": [
+    "Videojuegos/Geometry Dash/Canciones.md",
+    "Videojuegos/Minecraft Bedrock/Ray Tracing.md",
+    "Videojuegos/Minecraft Bedrock",
+    "Videojuegos/Geometry Dash",
+    "Videojuegos",
+    "Emulación/Plataformas/Nintendo Wii",
+    "Emulación/Plataformas/Nintendo Wii U/Videojuegos",
+    "Emulación/Plataformas/Nintendo Wii U",
+    "Emulación/Plataformas",
+    "Emulación"
+  ]
+}

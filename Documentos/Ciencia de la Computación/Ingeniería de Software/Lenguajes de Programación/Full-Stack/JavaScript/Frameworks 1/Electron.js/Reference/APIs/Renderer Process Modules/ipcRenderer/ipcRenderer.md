@@ -1,0 +1,2 @@
+# `ipcRenderer`
+The `ipcRenderer` module is an EventEmitter. It provides a few methods so you can send synchronous and asynchronous messages from the render process (web page) th the main process. You can also receive replies from the main process.

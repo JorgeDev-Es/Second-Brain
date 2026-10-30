@@ -1,0 +1,2 @@
+# sRGB
+## ¿Qué es sRGB?

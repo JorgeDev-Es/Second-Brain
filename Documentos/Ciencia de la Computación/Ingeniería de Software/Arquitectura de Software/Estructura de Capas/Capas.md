@@ -1,0 +1,2 @@
+# Capas de Estructura de la Arquitectura de Software
+La arquitectua de software es una organización jerárquica de responsabilidades diseñada para que el sistema sea escalable, mantenible y fácil de probar.

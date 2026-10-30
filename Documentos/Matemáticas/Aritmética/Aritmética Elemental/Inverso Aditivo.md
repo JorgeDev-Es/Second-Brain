@@ -1,0 +1,1 @@
+En matemáticas, el inverso aditivo (también llamado opuesto) de un número $a$ es $-a$ y se define como $a + (-a) = 0$,

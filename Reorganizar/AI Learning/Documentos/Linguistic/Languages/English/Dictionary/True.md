@@ -1,0 +1,4 @@
+# True
+## Synonims
+- Dedicated
+- Legitimate

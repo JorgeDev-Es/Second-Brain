@@ -1,0 +1,9 @@
+## Rust for Windows
+The `windows-rs` project 
+
+The `windows` and `windows-sys` crates let you call any Windows API past, present, and future using code generated on the fly directly from the metadata describing the API and right into your Rust package where you can call them as if they were just another Rust module. The Rust language projection follows in the traditional established by C++/WinRT of building language projections for Windows using standard languages and compilers, providing a natural and idiomatic way for Rust developers to call Windows APIs.
+
+## Choosing between the `windows` and `windows-sys` crates
+The `windows` crate provides bindings for the Windows API, including C-style APIs like `CreateThreadpool` as well as COM and WinRT APIs like DirectX. This crate provides the most comprehensive API coverage for the Windows operating system. Where possible, the `windows` crate also attempts to provide a more idiomatic and safe programming model for Rust developers.
+
+The `windows-sys` crate provides raw bindings for the C-style Windows APIs. It lacks support for COM and WinRT APIs. The `windows-sys` crate was born out of the realization that the most expensive aspect of the `windows` crate, in terms of build time, is the cost of compiling function bodies. The Rust compiler just spends a great deal of effort compiling function bodies, so a version of the `windows` crate that only includes declarations is both much smaller and faster by comparison. The trouble is that COM-style virtual function calls require extra code gen in Rust (Unlike C++) and this in turn leads to slower compile times.

@@ -1,0 +1,1 @@
+# Encabezado `<WinBase>` de la API de Win32

@@ -1,0 +1,2 @@
+# Punto de Entrada de un Navegador Web
+El punto de entrada de un navegador web es un archivo [[Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Navegadores Web/Tecnologías de la Web/HTML/HTML|HTML]], `index.html`.

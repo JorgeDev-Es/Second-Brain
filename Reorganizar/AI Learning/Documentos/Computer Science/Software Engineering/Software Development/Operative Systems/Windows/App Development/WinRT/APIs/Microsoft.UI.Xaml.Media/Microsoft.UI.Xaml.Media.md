@@ -1,0 +1,1 @@
+Provides brushes, basic media support, and graphics primitives.

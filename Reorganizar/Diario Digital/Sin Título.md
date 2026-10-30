@@ -1,0 +1,12 @@
+Me sigo sintiendo vacío.
+No se trata de una falta de propósito, sino una falta de resultados o algo así.
+Quiero ser programador. Siento que ser programador es mi propósito como cualidad. Me gusta estudiar programación, matemáticas, etcétera; disfruto mucho aprender cosas nuevas, probarlas, etcétera.
+Sin embargo, mi nuevo sentimiento de vacío viene a raíz quizás de no ver que nada cambie.
+Sin importar que aprenda a usar C++, o que aprenda a usar Vue.js, o que haga mi propia aplicación de música; siento como si no valiese la pena, pues sin importar que lo haga es como si a nadie le importara.
+
+No, se trata más de que es como si el mundo fuese tan grande que no logro ver como encajo, si trabajo en un lugar cualquiera, solo seré el "mesero de ese restaurante", pero si aprendo sin parar realmente no hay nadie a mi alrededor que necesite lo que aprendo
+
+No sé trata solo de eso, es como si me sintiera desconectado de todo, de la vida, de mi empleo, de mis relaciones, etc., no puedo trabajar por un mundo mejor si nadie a mi alrededor parece querer hacerlo, no puedo ir a la universidad para buscar un mejor empleo si la tasa de desempleo de graduados me dice que lo más probable es que acabe en las mismas, no puedo ir a buscar una relación profunda con una chica porque no tengo control sobre ella y si me dicen que no quieren nada conmigo no puedo hacer nada al respecto, no puedo intentar mejorar mi situación económica porque sin importar lo que hagas todo depende de los contactos que uno tiene, no puedo conseguir un trabajo por el resto de mi vida porque la mayoría de empleos tienen un salario que no vale la pena pero no puedo vivir sin trabajar porque es como vivir sin propósito, etc., es como si no importará si muriese hoy a si muriese en 80 años como si hubiese muerto hace tiempo. No me culpo a mi, pues yo he aceptado el hecho de que yo no soy el problema, pero la cosa es que yo no puedo cambiar la forma en que funciona el mundo
+
+Desde hace mucho tiempo es como si algo me faltara, quería una laptop que me gustara, la consigo y sigo en las mismas, quise tener el mejor monitor, lo conseguí y sigo en las mismas, quería un escritorio, una silla buena, otro monitor, un teclado, un mouse, muchos videojuegos, etcétera, etcétera, etcétera, y sin embargo, sigo en las mismas.
+Nada me llena. Tengo tantos videojuegos pero parece que prefiero jugar al nuevo Resident Evil que ni siquiera he tocado que jugar los más de 10 Resident Evil que ya tengo, sin contar todos los demás juegos que tengo.

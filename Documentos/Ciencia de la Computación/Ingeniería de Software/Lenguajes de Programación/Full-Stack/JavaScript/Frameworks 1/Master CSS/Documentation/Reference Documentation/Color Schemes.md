@@ -1,0 +1,2 @@
+# Color Schemes
+Master CSS uses an intelligent matching algorithm to make all styles support color schemes toggling, and the feature isn't limited to color-related properties, which means you can also apply it in layout, sizing, typography, and more.

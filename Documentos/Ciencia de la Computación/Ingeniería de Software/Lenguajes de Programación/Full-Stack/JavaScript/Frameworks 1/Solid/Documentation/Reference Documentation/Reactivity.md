@@ -1,0 +1,1 @@
+A signal should be used when the value directly affects the UI or the value needs to trigger effects or derived calculations

@@ -1,0 +1,2 @@
+# `#![cfg(target_os = "windows")]`
+The attribute `#![cfg(target_os = "windows"]` is used to tell the Rust compiler to include the item it's attached to only when compiling for the Windows operating system.

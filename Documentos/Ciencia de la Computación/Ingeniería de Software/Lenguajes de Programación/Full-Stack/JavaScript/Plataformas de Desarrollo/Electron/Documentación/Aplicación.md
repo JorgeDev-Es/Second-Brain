@@ -1,0 +1,2 @@
+El motor de la aplicación inicia en el momento en que ejecutas el comando `electron` o inicias el ejecutable de la aplicación.
+Cuando el sistema operativo ejecuta el binario de Electron, se crea el proceso principal.

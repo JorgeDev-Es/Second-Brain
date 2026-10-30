@@ -1,0 +1,2 @@
+# Configuración de Vite
+Al ejecutar Vite desde la línea de comandos o desde un script de [[Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/npm/npm|npm]], Vite automáticamente intentara ___ un archivo de configuración llamado `vite.config.js` o `vite.config.ts` dentro de la raíz del proyecto.

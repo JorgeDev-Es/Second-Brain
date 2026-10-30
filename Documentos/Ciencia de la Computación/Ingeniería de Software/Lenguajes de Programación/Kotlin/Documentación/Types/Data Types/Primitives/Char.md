@@ -1,0 +1,2 @@
+# `Char`
+Aunque `String` es más común en la programación diaria, internamente, un `String` no es más que una colección de caracteres almacenados en secuencia. Es como si los `Char` fueran los "bloques básicos" para construir cadenas.

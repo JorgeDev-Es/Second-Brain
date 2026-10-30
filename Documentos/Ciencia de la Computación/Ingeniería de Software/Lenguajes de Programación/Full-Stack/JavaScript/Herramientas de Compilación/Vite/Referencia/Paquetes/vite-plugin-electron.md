@@ -1,0 +1,1 @@
+# Paquete `vite-plugin-electron`

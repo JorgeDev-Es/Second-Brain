@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "e5f5f2e920fdc7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c7b270a25ba8edc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ebd43dd23d5874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Responsabilidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Responsabilidad"
+            }
+          },
+          {
+            "id": "36418b820c0279fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ego"
+            }
+          },
+          {
+            "id": "4a67158d0ecef006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dolor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dolor"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d71109ef625ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a95bde4c33568aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f4e08fc1a340b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "10611ea17ba9192f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b449c27529659f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269
+  },
+  "right": {
+    "id": "9a19bb13e45e69a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e2acb35b31a925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb346789ac5abfd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciencia de la Computación/Ingeniería de Software/Programming Fundamentals/Abstractions/Abstractions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstractions"
+            }
+          },
+          {
+            "id": "b11ee7ebed1794c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "7b625c87ca6ed340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9da95ed5796ca358",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conceptos esenciales de la vida/Éxito.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Éxito"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "4a67158d0ecef006",
+  "lastOpenFiles": [
+    "Sin título.md",
+    "Ego.md",
+    "Satisfactores.md",
+    "Salud Mental.md",
+    "Responsabilidad.md",
+    "Mentalidades/Pensamiento Divergente.md",
+    "Inteligencia Artificial.md",
+    "Mentalidades/Mentalidad de Crecimiento.md",
+    "Cuestionar.md",
+    "Entendimiento.md",
+    "Expectativas.md",
+    "Sistema de Recompensa.md",
+    "Disciplina.md",
+    "Voluntad.md",
+    "Aburrimiento.md",
+    "Dolor.md",
+    "Agencia Humana.md",
+    "Maximizadores.md",
+    "Problemas/Paradoja de la Elección.md",
+    "Problemas/Parálisis por Análisis.md",
+    "Síndromes mentales/Shiny Object Syndrome.md",
+    "FOMO.md",
+    "Sentido.md",
+    "Neurotransmisores/Dopamina.md",
+    "Eudaimonía.md",
+    "Felicidad.md",
+    "IA",
+    "Actividades/Videojuegos",
+    "Conceptos esenciales de la vida/Cerebro Humano",
+    "Conceptos esenciales de la vida/El Cuerpo Humano y sus Necesidades",
+    "Conceptos esenciales de la vida/Relaciones",
+    "Conceptos esenciales de la vida/Hobbies",
+    "Conceptos esenciales de la vida/Comunicación",
+    "Conceptos esenciales de la vida/Roles de Genero",
+    "Conceptos esenciales de la vida/Problemas",
+    "Análisis/Videos",
+    "Pasted image 20250819200105.png"
+  ]
+}

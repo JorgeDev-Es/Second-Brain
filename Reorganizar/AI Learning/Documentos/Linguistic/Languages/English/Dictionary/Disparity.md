@@ -1,0 +1,1 @@
+Lack of similarity or equality
