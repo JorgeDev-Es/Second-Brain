@@ -1,0 +1,3 @@
+# Configuración
+## 
+`~/.gemini/antigravity`

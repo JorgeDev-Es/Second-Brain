@@ -4,115 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9c21091f125db14f",
+        "id": "dffd600d83e3adea",
         "type": "tabs",
         "children": [
           {
-            "id": "5641755e52cd0d43",
+            "id": "65fcc75968500eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentos/Ídiomas/Inglés/Idioms/To get one's point across.md",
+                "file": "Documentos/Inteligencia Artificial/Google/Antigravity/Antigravity IDE/Documentación/Configuración.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To get one's point across"
+              "title": "Configuración"
             }
           }
         ]
-      },
-      {
-        "id": "0862cfbd6f17a04a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2eeddbbf1423ed82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentos/Ídiomas/Inglés/Diccionario/Knowledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge"
-            }
-          },
-          {
-            "id": "48bfb6e4c5531dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentos/Ídiomas/Inglés/Diccionario/Average.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Average"
-            }
-          },
-          {
-            "id": "84b04cf1ec84b865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentos/Ídiomas/Inglés/Diccionario/Responsible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Responsible"
-            }
-          },
-          {
-            "id": "381a1566e8beb148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentos/Ídiomas/Inglés/Diccionario/Outcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outcome"
-            }
-          },
-          {
-            "id": "a3f2f0d2f8d8cff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentos/Ídiomas/Inglés/Diccionario/Occasion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Occasion"
-            }
-          },
-          {
-            "id": "0b837f3d2672f4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentos/Ídiomas/Inglés/Diccionario/Struggle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Struggle"
-            }
-          }
-        ],
-        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -174,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.64353942871094
+    "width": 336.9140625
   },
   "right": {
     "id": "9a19bb13e45e69a9",
@@ -258,53 +167,53 @@
   "left-ribbon": {
     "hiddenItems": {
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "5641755e52cd0d43",
+  "active": "65fcc75968500eca",
   "lastOpenFiles": [
-    "Documentos/Ídiomas/Inglés/Diccionario/Responsibility.md",
+    "Documentos/Inteligencia Artificial/Google/Antigravity/Antigravity.md",
+    "Documentos/Inteligencia Artificial/Google/Antigravity/Antigravity IDE/Documentación/Configuración.md",
+    "Documentos/Inteligencia Artificial/Google/Antigravity/Antigravity IDE/Untitled",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Lua/Lua.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Lua/Documentación",
+    "UniversalOS/UniversalOS.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Lua",
+    "UniversalOS/Documentación",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/Documentación/Repositorios Oficiales.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/pacman/pacman.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/Documentación",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/pacman/Documentación/Untitled.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Gestor de Ventanas/Hyprland.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/pacman/Documentación",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/Pacman/Untitled/Untitled",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/pacman/Referencias",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/pacman",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/CLI/cat.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Gestor de Ventanas",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/CLI/basename.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Documentación/Estructura de Archivos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Fundamentos/Fundamentos.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Fundamentos/Programa.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Fundamentos/Binario.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Fundamentos/Ejecutable.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Documentación/Entorno Gráfico.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/CLI/grep.md",
+    "UniversalOS/Atajos de Teclado.md",
+    "Documentos/Ídiomas/Inglés/Subjunctivo.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Outcome.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Arch Linux/Arch Linux.md",
+    "Documentos/Ciencia de la Computación/Ingeniería de Software/Plataformas/Linux/Linux.md",
     "Documentos/Ídiomas/Inglés/Idioms/To get one's point across.md",
+    "Documentos/Ídiomas/Inglés/Diccionario/Responsibility.md",
     "Documentos/Ídiomas/Inglés/Diccionario/Struggle.md",
     "Documentos/Ídiomas/Inglés/Diccionario/Occasion.md",
-    "Documentos/Ídiomas/Inglés/Diccionario/Achieve.md",
-    "Documentos/Ídiomas/Inglés/Diccionario/Outcome.md",
-    "Documentos/Ídiomas/Inglés/Diccionario/Responsible.md",
-    "Documentos/Ídiomas/Inglés/Diccionario/Average.md",
-    "Documentos/Ídiomas/Inglés/Diccionario/Knowledge.md",
-    "Problemas/Ídiomas/Inglés/Palabras mal utilizadas.md",
-    "Documentos/Ídiomas/Inglés/Diccionario",
-    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Cheatsheets/Cheatsheets.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse/Clases/ArgumentParser.md",
-    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Cheatsheets",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse/argparse.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse/Clases",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Referencia/Biblioteca Estándar/argparse",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python.md",
-    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Documentación/Herramientas de Desarrollo.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/scoop/scoop.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Infraestructura de Compilación/LLVM/Librerías/LibC++.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Infraestructura de Compilación/LLVM/LLVM.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Infraestructura de Compilación/LLVM/Librerías",
-    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Documentación/Compilación.md",
-    "Documentación/Decompilación/Nintendo Switch/BotW - Windows/Documentación/Estructura de Archivos.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python Packaging/Python Packaging.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python Packaging/Documentación",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Documentación/Paquetes.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Python/Python Packaging",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/xdelta3.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Interfaz de Línea de Comandos/bash",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Lenguajes de Programación/Rust/Rust.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Herramientas de compilación/ccache/ccache.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/Chocolatey/Chocolatey.md",
-    "Documentos/Ciencia de la Computación/Ingeniería de Software/Herramientas de Desarrollo/Administradores de Paquetes/scoop",
-    "Documentos/Inteligencia Artificial/Google/Antigravity/Antigravity IDE/Extensiones",
     "Archivos Adjuntos/Isaac Callbacks.png",
     "Archivos Adjuntos/Isaac Callbacks.svg",
     "Archivos Adjuntos/Isaac Execution Order.png",
