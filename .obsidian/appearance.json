@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Geist",
   "cssTheme": "Catppuccin",
   "enabledCssSnippets": [],
-  "theme": "system"
+  "theme": "system",
+  "showRibbon": true
 }
